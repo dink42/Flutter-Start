@@ -1,4 +1,3 @@
-# Learning
+# First Dart Projekt
 ---
-| Trying out github.
-| Mainly code in C#, Python and some Webb!
+| Just a simple Dart project.
